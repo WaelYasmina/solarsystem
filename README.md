@@ -1,6 +1,6 @@
 # solarsystem
 
-"Cloning And Animating Models Loaded From glTF Files - Three.js Tutorial" YouTube tutorial project files https://youtu.be/Q3UqOJrdugY
+"How To Make An Object Rotate Around Another Object In Three.js - Create A Solar System" YouTube tutorial project files https://youtu.be/XXzqSAt3UIw
 
 1. Download repository
 2. Make sure to install dependencies: open project in VSCode -> open command line -> type: npm install
@@ -11,4 +11,6 @@
 
 Textures from:
 
-https://quaternius.com/packs/ultimateanimatedanimals.html
+http://planetpixelemporium.com/mercury.html
+https://www.deviantart.com/niko22966/art/Rings-of-Saturn-419585311
+https://favpng.com/png_view/uranus-the-trooth-texture-mapping-planet-mykolaiv-png/0rw9hFBt
